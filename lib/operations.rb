@@ -5,12 +5,12 @@ else
  "true"
 end
 end
-speed==50
+speed (50)
 
 def not_safe?(speed)
 	
 end
 
-speed(50)	
+
 
 
